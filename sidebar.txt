@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swx:home|Door43 (swx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swx|d43-swx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swx/archive/master.zip|d43-swx.zip]]
+
+**Recent Changes**
+{{changes>ns = swx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swx|Ethnologue data]]
+
